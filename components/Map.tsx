@@ -53,7 +53,7 @@ export default function Map () {
         center={[49.285790, -123.111954]} zoom={14} scrollWheelZoom={true}
         >
 <TileLayer
-attribution='&copy; <a href="">By Justin Wu</a> contributors '
+attribution='&copy; <a href="https://github.com/justinweiyungwu/canada-line">By Justin Wu</a> contributors '
 url='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
 />
 
